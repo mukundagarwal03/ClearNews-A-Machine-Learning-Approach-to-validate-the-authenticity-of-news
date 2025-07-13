@@ -4,7 +4,7 @@ Using a labeled dataset of authentic and fabricated articles, advanced preproces
 Gradient Boosting, and Random Forests, are implemented and compared for effectiveness, with an ensemble approach proposed to enhance accuracy and robustness. The study underscores the potential of ML-driven systems to combat misinformation and preserve the integrity of information in the digital era.
 ![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/46090bb69339cc2927f7adac5d03557babd0a73c/Screenshot%202025-07-13%20132902.png)
 ![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/b08ea410d26a23e7b5149bc24d10620831072291/Screenshot%202025-07-13%20132911.png)
-![image alt]()
+![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/b95e11184788843ba53c8afe1d3f07562618ac4a/Screenshot%202025-07-13%20132917.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
