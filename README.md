@@ -10,4 +10,4 @@ Gradient Boosting, and Random Forests, are implemented and compared for effectiv
 ![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/1d6869194ca408620fd627de92eaa1ca64fd9d8f/Screenshot%202025-07-13%20132942.png)
 ![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/32b23750af2c9ed7b3f5eac9f4fe8548fa6b9e82/Screenshot%202025-07-13%20132950.png)
 ![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/04fabd903670f3198faf124c941f85aac8893c8b/Screenshot%202025-07-13%20132957.png)
-![image alt]()
+![image alt](https://github.com/mukundagarwal03/ClearNews-A-Machine-Learning-Approach-to-validate-the-authenticity-of-news/blob/8ece2f41fa55d7b4fe7151b1ad6f146f1d3a7ed5/Screenshot%202025-07-13%20133003.png)
